@@ -8,4 +8,4 @@ I worked on UC-3: Search Products and View Details, focusing on search input val
 
 ## Project report
 
-[View the PDF report](Online-Pharmacy-Secure-Design.pdf)
+[View the PDF report](Online-Pharmacy-Secure-Design%20.pdf)
